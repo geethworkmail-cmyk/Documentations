@@ -42,12 +42,12 @@
 | Row / Cell Editing | Manual | ✅ | ✅ | ✅ |
 | Column Resizing | Manual | Limited | ✅ | ✅ |
 | Column Reordering | Manual | ❌ | ✅ | ✅ |
-| Column Pinning | ❌ | ❌ | ✅ | ✅ |
-| Tree Data | ❌ | ❌ | ✅ | ✅ |
-| Row Grouping | ❌ | ❌ | ❌ | ✅ |
-| Aggregation | ❌ | ❌ | ❌ | ✅ |
-| Excel Export | ❌ | ❌ | ❌ | ✅ |
-| Virtualization | ❌ | ✅ | ✅ | ✅ |
+| Column Pinning | Manual | ❌ | ✅ | ✅ |
+| Tree Data | Manual | ❌ | ✅ | ✅ |
+| Row Grouping | Manual | ❌ | ❌ | ✅ |
+| Aggregation | Manual | ❌ | ❌ | ✅ |
+| Excel Export | Manual | ❌ | ❌ | ✅ |
+| Virtualization | Manual | ✅ | ✅ | ✅ |
 | Accessibility | Manual | Built-in | Built-in | Built-in |
 | License | MIT | MIT | Commercial | Commercial |
 
